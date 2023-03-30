@@ -1,0 +1,12 @@
+{
+  "lookingForList": [
+    "Male",
+    "Female",
+    "Both"
+  ],
+  "agePreferenceList": [
+    "19-25",
+    "26-40",
+    "Above 40"
+  ]
+}
